@@ -1,9 +1,5 @@
-[rsschool-cv](https://AleksAUP.github.io/rsschool-cv/cv)
 
-  # **Alexander Pestryakov** # 
-
-
-
+# **Alexander Pestryakov** # 
 
 ## My Contact Info ##
 * Location: Magnitogorsk, Russia 
