@@ -1,4 +1,4 @@
-[rsschool-cv](https://gitHub.com)
+[rsschool-cv](https://AleksAUP.github.io/rsschool-cv/cv)
 
   # **Alexander Pestryakov** # 
 
