@@ -1,1 +1,1 @@
-### [ rsscool-cv ](https://AleksAUP.github.io/rsschool-cv/cv)
+### [ rsshcool-cv ](https://AleksAUP.github.io/rsschool-cv/cv)
